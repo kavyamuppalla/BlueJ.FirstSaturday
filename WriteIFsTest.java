@@ -49,6 +49,7 @@ public class WriteIFsTest
         WriteIFs writeIFs1 = new WriteIFs();
         writeIFs1.playerDied(true);
         assertEquals("Game Over!", writeIFs1.ss);
+        
     }
 
 
